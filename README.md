@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" height="30"></h2>
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" height="30"></h1>
 
 ## Languages and Tools 🛠:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50"/> </a> 
@@ -21,3 +21,5 @@
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https:https://www.linkedin.com/in/mayar-ahmed-450156201/)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:mayarahmed11211@gmail.com)
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/Mayoora)
+<br>
+<p > <img src="https://github-readme-stats.vercel.app/api?username=MayarEbrahim&show_icons=true" alt="MayarEbrahim" /> </p>
