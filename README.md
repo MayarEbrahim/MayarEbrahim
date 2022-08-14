@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="50"/>
   <img src="https://seeklogo.com/images/A/adobe-illustrator-logo-775FAF240B-seeklogo.com.png" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png?w=740&t=st=1660492789~exp=1660493389~hmac=2bc8c7384b4817bcf5544e6c22344b5914af767f7d8445d70b1616606eaf2dbd" height="50"/>
  </p>
