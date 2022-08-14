@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="50"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"  height="50"/> </a> 
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"/>
-  <img src="https://seeklogo.com/images/A/adobe-illustrator-logo-775FAF240B-seeklogo.com.png"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png?w=740&t=st=1660492789~exp=1660493389~hmac=2bc8c7384b4817bcf5544e6c22344b5914af767f7d8445d70b1616606eaf2dbd"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="50"/>
+  <img src="https://seeklogo.com/images/A/adobe-illustrator-logo-775FAF240B-seeklogo.com.png" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png?w=740&t=st=1660492789~exp=1660493389~hmac=2bc8c7384b4817bcf5544e6c22344b5914af767f7d8445d70b1616606eaf2dbd" height="50"/>
  </p>
